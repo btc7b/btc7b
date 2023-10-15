@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @btc7b
-- 👀 I’m interested in blockchain
+- 👀 I’m interested in blockchains
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: send me a message
